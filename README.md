@@ -21,10 +21,10 @@ This project provides a comprehensive analysis of loan data using Microsoft Exce
 ## 🖼️ Visuals
 
 ### Histogram of Loan Amounts
-![Histogram](screenshots/histogram_chart.png)
+![Histogram](/histogram_chart.png)
 
 ### Sample Pivot Chart
-![Pivot Chart](screenshots/pivot_chart_1.png)
+![Pivot Chart](/pivot_chart_1.png)
 
 ## 🛠️ Tools Used
 
